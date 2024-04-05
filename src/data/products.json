@@ -45,21 +45,21 @@
     "productID": 7,
     "name": "Arroz Caldo",
     "description": "Filipino-style chicken and rice soup simmered in a flavorful broth with garlic and ginger.",
-    "price": 20.00,
+    "price": 25.00,
     "image": "arroz_caldo.jpg"
   },
   {
     "productID": 8,
     "name": "Palabok",
     "description": "Thin rice noodles topped with a rich and savory shrimp sauce, boiled eggs, and crispy fried garlic.",
-    "price": 15.00,
+    "price": 25.00,
     "image": "palabok.jpg"
   },
   {
     "productID": 9,
     "name": "Pancit",
-    "description": "Stir-fried noodles with a medley of vegetables and your choice of meat or seafood, a Filipino party staple.",
-    "price": 15.00,
+    "description": "Stir-fried noodles with a medley of vegetables with meat and seafood, a Filipino party staple.",
+    "price": 25.00,
     "image": "pancit.jpg"
   },
   {
@@ -73,7 +73,7 @@
     "productID": 11,
     "name": "Ice Scramble",
     "description": "A colorful frozen treat made with shaved ice, milk, sugar, and flavorings, topped with sweetened condensed milk and toppings.",
-    "price": 15.00,
+    "price": 20.00,
     "image": "ice_scramble.jpg"
   },
   {
@@ -106,14 +106,14 @@
   },
   {
     "productID": 16,
-    "name": "Kwek-Kwek (3pcs)",
+    "name": "Kwek-Kwek (4pcs)",
     "description": "Deep-fried quail eggs coated in an orange-colored batter, a popular Filipino street food snack.",
-    "price": 15.00,
+    "price": 17.00,
     "image": "kwek_kwek.jpg"
   },
   {
     "productID": 17,
-    "name": "Kikiam (5pcs)",
+    "name": "Kikiam (6pcs)",
     "description": "Savory Chinese-inspired street food made with ground pork and vegetables wrapped in bean curd sheets.",
     "price": 15.00,
     "image": "kikiam.jpg"
