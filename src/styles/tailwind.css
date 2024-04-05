@@ -81,6 +81,39 @@
   }
 }
 
+.hero {
+  @apply my-1;
+  @apply py-2;
+}
+
+.navbar {
+  @apply flex;
+  @apply justify-center;
+  @apply gap-x-2;
+}
+
+.card-caption {
+  @apply text-sm;
+  @apply font-semibold;
+}
+
+.product-list-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.product-list-container .card {
+  flex: 0 0 calc(33.33% - 1rem);
+  min-height: 180px;
+}
+
+.productListContainer {
+  height: 67vh;
+  overflow: auto;
+}
+
 .emptyCart {
   margin-top: 20px;
   text-align: center;
