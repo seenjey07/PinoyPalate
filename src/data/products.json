@@ -1,0 +1,142 @@
+[
+  {
+    "productID": 1,
+    "name": "Pork Barbecue",
+    "description": "Juicy grilled pork skewers marinated in a sweet and savory sauce.",
+    "price": 15.00,
+    "image": "pork_barbecue.jpg"
+  },
+  {
+    "productID": 2,
+    "name": "Chicken Isaw",
+    "description": "Grilled chicken intestines seasoned with spices for a flavorful street food experience.",
+    "price": 10.00,
+    "image": "chicken_isaw.jpg"
+  },
+  {
+    "productID": 3,
+    "name": "Dugo (Pig's blood)",
+    "description": "Rich and creamy pig's blood stew, a Filipino delicacy often enjoyed with rice.",
+    "price": 10.00,
+    "image": "dugo.jpg"
+  },
+  {
+    "productID": 4,
+    "name": "Pork Isaw",
+    "description": "Grilled pork intestines skewered and seasoned to perfection, a classic street food favorite.",
+    "price": 10.00,
+    "image": "pork_isaw.jpg"
+  },
+  {
+    "productID": 5,
+    "name": "Lugaw",
+    "description": "Warm and comforting rice porridge topped with flavorful garlic, ginger, and crispy fried shallots.",
+    "price": 15.00,
+    "image": "lugaw.jpg"
+  },
+  {
+    "productID": 6,
+    "name": "Goto",
+    "description": "A hearty rice porridge with tender beef tripe and ginger-infused broth, perfect for cold days.",
+    "price": 25.00,
+    "image": "goto.jpg"
+  },
+  {
+    "productID": 7,
+    "name": "Arroz Caldo",
+    "description": "Filipino-style chicken and rice soup simmered in a flavorful broth with garlic and ginger.",
+    "price": 20.00,
+    "image": "arroz_caldo.jpg"
+  },
+  {
+    "productID": 8,
+    "name": "Palabok",
+    "description": "Thin rice noodles topped with a rich and savory shrimp sauce, boiled eggs, and crispy fried garlic.",
+    "price": 15.00,
+    "image": "palabok.jpg"
+  },
+  {
+    "productID": 9,
+    "name": "Pancit",
+    "description": "Stir-fried noodles with a medley of vegetables and your choice of meat or seafood, a Filipino party staple.",
+    "price": 15.00,
+    "image": "pancit.jpg"
+  },
+  {
+    "productID": 10,
+    "name": "Halo-Halo",
+    "description": "A delightful Filipino dessert made with a mix of shaved ice, sweetened beans, fruits, and various toppings.",
+    "price": 30.00,
+    "image": "halo_halo.jpg"
+  },
+  {
+    "productID": 11,
+    "name": "Ice Scramble",
+    "description": "A colorful frozen treat made with shaved ice, milk, sugar, and flavorings, topped with sweetened condensed milk and toppings.",
+    "price": 15.00,
+    "image": "ice_scramble.jpg"
+  },
+  {
+    "productID": 12,
+    "name": "Mais con Yelo",
+    "description": "Sweet corn kernels layered with shaved ice, milk, and sugar, a refreshing and creamy summer dessert.",
+    "price": 20.00,
+    "image": "mais_con_yelo.jpg"
+  },
+  {
+    "productID": 13,
+    "name": "Saging con Yelo",
+    "description": "Ripe banana slices served with crushed ice and sweetened milk, a simple yet satisfying dessert.",
+    "price": 20.00,
+    "image": "saging_con_yelo.jpg"
+  },
+  {
+    "productID": 14,
+    "name": "Melon Ice Candy",
+    "description": "Homemade frozen treat made with fresh melon juice, sugar, and milk, a favorite snack during hot summer days.",
+    "price": 7.00,
+    "image": "melon_ice_candy.jpg"
+  },
+  {
+    "productID": 15,
+    "name": "Chocolate Ice Candy",
+    "description": "Indulgent frozen dessert made with rich chocolate milk, frozen to perfection for a delightful treat.",
+    "price": 5.00,
+    "image": "chocolate_ice_candy.jpg"
+  },
+  {
+    "productID": 16,
+    "name": "Kwek-Kwek (3pcs)",
+    "description": "Deep-fried quail eggs coated in an orange-colored batter, a popular Filipino street food snack.",
+    "price": 15.00,
+    "image": "kwek_kwek.jpg"
+  },
+  {
+    "productID": 17,
+    "name": "Kikiam (5pcs)",
+    "description": "Savory Chinese-inspired street food made with ground pork and vegetables wrapped in bean curd sheets.",
+    "price": 15.00,
+    "image": "kikiam.jpg"
+  },
+  {
+    "productID": 18,
+    "name": "Fishball (10pcs)",
+    "description": "Deep-fried fish balls served on skewers with a sweet and spicy sauce, a favorite street food snack.",
+    "price": 15.00,
+    "image": "fishball.jpg"
+  },
+  {
+    "productID": 19,
+    "name": "Chicken Balls (4pcs)",
+    "description": "Tender chicken meatballs seasoned with herbs and spices, perfect for dipping in your favorite sauce.",
+    "price": 15.00,
+    "image": "chicken_balls.jpg"
+  },
+  {
+    "productID": 20,
+    "name": "Gulaman",
+    "description": "Refreshing gelatin cubes served in sweetened syrup, a classic Filipino beverage to beat the heat.",
+    "price": 15.00,
+    "image": "gulaman.jpg"
+  }
+]
